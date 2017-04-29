@@ -11,4 +11,6 @@
 2. Created Reference Index Transcript to Ingest into Elasticsearch - Planned
 
 ### Contributors
-Kevin Wetzel, Dr David W. Bauer Jr. 
+Kevin Wetzel(Coding), Dr David W Bauer Jr.(Concepts and Ideas)
+
+This utility is open source and the source code is included in the package file. Utility was written by Kevin Wetzel for Jigsaw Security. A commercial version and support is available at www.jigsaw-security.com. 
