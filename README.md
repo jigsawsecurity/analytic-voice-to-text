@@ -1,2 +1,14 @@
-# analytic-voice-to-text
-A Voice to Text Module for Ingesting Audio into Elasticsearch
+## Analytic for Processing Voice Conversations for Indexing in Elasticsearch
+
+![alt tag](https://ui.slcsecurity.com/img/custom/JSLOGO.png)
+
+## Goals of the Project
+1. Create a voice to text analytic with at least 90% accuracy on word recognition
+2. Index the transcript of audio files in Elasticsearch
+
+## Status and Task
+1. Created Voice to Text Module - Coding
+2. Created Reference Index Transcript to Ingest into Elasticsearch - Planned
+
+### Contributors
+Kevin Wetzel, Dr David W. Bauer Jr. 
